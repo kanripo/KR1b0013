@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 增修東萊書說
-#+DATE: 2015-09-23 09:35:56
-#+PROPERTY: JUAN 27
+#+DATE: 2015-08-24 22:01:55.818818
+#+PROPERTY: ID KR1b0013
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十七
 <pb:KR1b0013_WYG_027-1a>¶
 欽定四庫全書¶
 　増修東萊書說卷二十七　　宋　時瀾　撰¶
@@ -164,4 +166,3 @@
 　¶
 　¶
 　増修東萊書說卷二十七¶
-

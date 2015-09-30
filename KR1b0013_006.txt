@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 增修東萊書說
-#+DATE: 2015-09-23 09:35:56
-#+PROPERTY: JUAN 6
+#+DATE: 2015-08-24 22:01:55.434581
+#+PROPERTY: ID KR1b0013
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷六
 <pb:KR1b0013_WYG_006-1a>¶
 欽定四庫全書¶
 　增修東萊書説卷六　　　　宋　時瀾　撰¶
@@ -308,4 +310,3 @@
 既醜有夏復歸于亳入自北門乃遇汝鳩汝方作汝鳩¶
 汝方¶
 　増修東萊書説卷六¶
-
